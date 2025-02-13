@@ -1,1 +1,26 @@
-/* Start coding here */
+* {
+	margin: 0px;
+	box-sizing: border-box;
+}
+section {
+	width: 100vw;
+	height: 100vh;
+	border: 16px solid lightgrey;
+}
+
+article {
+	height: 100%;
+	width: 100%;
+	border: 16px solid black;
+}
+div {
+	height: 100%;
+	width: 100%;
+	border: 24px solid crimson;
+	background: #f0e68c;
+}
+h1 {
+	margin: 30px 0px;
+	text-align: center;
+	font-size: 72px;
+}
