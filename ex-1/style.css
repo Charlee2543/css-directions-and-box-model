@@ -1,1 +1,30 @@
-/* Start coding here */
+* {
+	margin: 0px;
+	display: block;
+}
+.header {
+	width: 100vw;
+	padding: 40px 0px;
+	background: #92a9bd;
+}
+h1 {
+	padding: 0px 30px;
+	color: #183b56;
+}
+section {
+	width: 50vw;
+	border: 3px solid #183b56;
+	background: #e4e9ed;
+	margin: 30px;
+	color: #183b56;
+}
+h2 {
+	margin: 15px 15px 10px 15px;
+}
+img {
+	margin: 10px 15px;
+	width: 80%;
+}
+p {
+	margin: 10px 15px 15px 15px;
+}
